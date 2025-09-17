@@ -53,7 +53,8 @@ git commit -m "Added a feature that will blow minds 🤯"
 # Push and open a Pull Request
 git push origin feature/your-awesome-idea
 
-
+```bash bash```
+ 
 ##🦸🏾 Code of Conduct (a.k.a Don’t Be That Person)
 
 Be kind.
