@@ -25,6 +25,15 @@ This GitHub isn’t just a repo dump. It’s a **developer playground** where:
   - 🏆 **Competition Management System** – Manages events, participants, scoring, and analytics.  
 - **Community Work**: Teaching Python for Blockchain Development, mentoring youth in IT, building developer communities.  
 
+## 📬 How to Reach Me
+
+💌 Email: vick4infotech@gmail.com
+
+🌐 LinkedIn: linkedin.com/in/victor-ayenikanju
+
+📝 Blog / Research: coming soon…
+
+📍 Based in Nigeria – working globally.
 
 
 ## 🗺️ How to Navigate My GitHub (Like a Pro)  
@@ -53,63 +62,7 @@ git commit -m "Added a feature that will blow minds 🤯"
 # Push and open a Pull Request
 git push origin feature/your-awesome-idea
 
-ls -l
- 
-##🦸🏾 Code of Conduct (a.k.a Don’t Be That Person)
-
-Be kind.
-
-Be constructive.
-
-Don’t gatekeep knowledge.
-
-Respect time zones (seriously).
 
 
 
-## 📬 How to Reach Me
 
-💌 Email: vick4infotech@gmail.com
-
-🌐 LinkedIn: linkedin.com/in/victor-ayenikanju
-
-📝 Blog / Research: coming soon…
-
-📍 Based in Nigeria – working globally.
-
-
-## ⭐ Stay in the Loop
-
-Star ⭐ repos you love.
-
-Watch 👀 for new releases.
-
-Fork 🍴 if you want to cook your own version.
-
-Follow 🫱🏾‍🫲🏾 me for my latest adventures in DevOps & Developer Advocacy.
-
-
-## 🧠 What You’ll Find Here
-
-HiCare: The flagship system showing my DevOps + Python + React chops.
-
-Abujalet: My urban transit brainchild.
-
-Competition Management System: Because spreadsheets can’t handle everything.
-
-Learning Materials: Python for Blockchain Dev, DevOps practice guides, research notes on developer workflows.
-
-
-## ⚖️ License
-
-Most projects are MIT Licensed (open, remixable, and collaboration-friendly). Check individual repos for specifics.
-
-
-**My Developer Philosophy:**
-“Write code like you’re teaching your future self, advocate like you’re empowering a community, and document like your coffee depends on it.” ☕
-
-
-
-Thanks for stopping by, seriously. 
-
-Now go explore, star something cool, and let’s build together 🚀.
